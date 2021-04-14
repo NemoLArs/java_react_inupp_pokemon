@@ -1,0 +1,15 @@
+.image {
+
+    width: 200px;
+    height: 200px;
+    padding-bottom: 10px;
+
+}
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid black;
+    padding-bottom: 5px;
+    background-color: rgb(141, 247, 255);
+}
